@@ -1,0 +1,9 @@
+
+document: https://docs.linuxserver.io/images/docker-letsencrypt
+repo: https://hub.docker.com/r/linuxserver/swag
+template config: https://github.com/linuxserver/reverse-proxy-confs
+
+How to
+Step 1: Proper Configure your domain
+Step 2: configure nginx
+Step 3: Deploy container
